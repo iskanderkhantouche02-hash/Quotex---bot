@@ -1,3 +1,7 @@
-git+https://github.com/cleitonleonel/pyquotex.git
-playwright
-flask
+# Updated requirements.txt
+
+# List of required packages
+requests==2.25.1
+numpy==1.19.5
+pandas==1.1.5
+Flask==1.1.2
